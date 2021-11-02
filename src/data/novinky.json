@@ -1,14 +1,38 @@
 [
 	{
 		"titulek": "Založení firmy",
-		"datum": "13. 1. 2005"
+		"datum": {
+			"den": 13,
+			"mesic": 1,
+			"rok": 2005
+		},
+		"obrazek": "jerab.jpg"
 	},
 	{
 		"titulek": "Otevření pobočky v Praze",
-		"datum": "4. 10. 2005"
+		"datum": {
+			"den": 20,
+			"mesic": 2,
+			"rok": 2005
+		},
+		"obrazek": "praha.jpg"
 	},
 	{
 		"titulek": "Otevření pobočky v Brně",
-		"datum": "20. 2. 2006"
+		"datum": {
+			"den": 20,
+			"mesic": 2,
+			"rok": 2006
+		},
+		"obrazek": "brno.jpg"
+	},
+	{
+		"titulek": "Den otevřeních dveří",
+		"datum": {
+			"den": 20,
+			"mesic": 3,
+			"rok": 2006
+		},
+		"obrazek": "dod.jpg"
 	}
 ]
